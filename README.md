@@ -1,4 +1,8 @@
 Part 1.) Shreedhar updated demos<<dashboard<<canvas_designer.html
+
+
+
+
 part 2.) shivanshu updated demos<<dashboard<<canvas_designer.html and added new file demos<<js<<main.js
 ////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 part 3.) Else updates : Dashboard again added 
